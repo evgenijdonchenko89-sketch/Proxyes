@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests[socks]
+PySocks
+Flask
+gunicorn
+
